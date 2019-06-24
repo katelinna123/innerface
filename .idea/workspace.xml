@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0af3e1f-90c4-4488-9b1e-5d5df3e7c344" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/30c21b50-e21e-4963-b891-92a45a6a89a8.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/lenovo.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/interwar.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/data/data.xls" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/pytest.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/reports/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/conftest.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/importfile.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/test_add_card.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/test_bind_card.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/test_consume_card.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/test_deposit_card.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apitest/test_query_card.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/apptest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/tests/webtest/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/1.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/3.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/data2.xls" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/db.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/demo2.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/demo3.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/utils/demo4.py" />
-    </list>
+    <list default="true" id="f0af3e1f-90c4-4488-9b1e-5d5df3e7c344" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
